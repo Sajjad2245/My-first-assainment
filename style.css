@@ -45,3 +45,8 @@ display: block; margin: auto; width: 50%;}
 .forms{display: flex; gap: 250px;}
 #for{height: 30px; border-radius: 5px;} #ful{height: 30px; border-radius: 5px;} #mass{height: 60px; width: 170px; border-radius: 5px; color: #757575;}
 .labe{margin-left: 250px; margin-bottom: 150px; margin-right: 150px;}
+.log{text-decoration: none; font-size: 3em; color: #3729d1; font-weight: 600; text-align: center;}
+.pun{font-size: x-small; color: #757575; text-align: center;}
+.nav{display: flex; list-style: none; gap: 20px; justify-content: center;} 
+.nav li a{text-decoration: none; font-size: smaller; color: #757575;}
+.not a{text-decoration: none;}
