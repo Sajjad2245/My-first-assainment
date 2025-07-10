@@ -26,3 +26,22 @@ font-size: 1.4em; font-weight: bold;}
 .sec-31{display: flex; 
 gap: 151px; align-items: center;align-self: center; 
  justify-content: center; }
+.star{display: flex;}
+.black{color: #757575; font-size: x-small;}
+.pho{display: flex; gap: 5px;}
+.rev{border-radius: 100%;}
+.ma{font-size: x-small; color: #757575;} .da{font-size: x-small;color: #beb9b9;} 
+.sec41{background-color: #f59595; 
+border-radius: 15px;}
+.sec-4{display: flex; gap: 30px; 
+justify-content: center; margin-bottom: 137px; margin-left: 149px; margin-right: 151px; padding-top: 50px;}
+.bor{background-color:white ;}
+.red{font-size: larger; font-weight: bold; text-align: center; padding-bottom: 20px;}
+.sma{font-size: x-small; color: #beb9b9; text-align: center;}
+.fin{border-radius: 30px;
+display: block; margin: auto; width: 50%;}
+.alt{background-color: #b9b9b9; border-radius: 15px; margin: 0px 150px 150px 150px;}
+.en{font-size: 2.5em;}
+.forms{display: flex; gap: 250px;}
+#for{height: 30px; border-radius: 5px;} #ful{height: 30px; border-radius: 5px;} #mass{height: 60px; width: 170px; border-radius: 5px; color: #757575;}
+.labe{margin-left: 250px; margin-bottom: 150px; margin-right: 150px;}
