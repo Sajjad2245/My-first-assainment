@@ -1,0 +1,13 @@
+.color{list-style: none;
+color: #4E47FF; }
+.btn-1{color: #FFFFFF; 
+   background-color: #4E47FF; border-radius:5px ;  padding: 3PX; }
+   .Papa{display: flex; 
+   justify-content: space-between; 
+  align-items: center;
+      }
+  .text-1{text-align: center;
+  margin-top: 120px; padding-bottom: 200px;}
+ .banner{background: url('../Assets/Hero-bg.png');
+   background-repeat: no-repeat;
+    background-size: 144opx 698px; }
