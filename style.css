@@ -16,3 +16,13 @@ color: #4E47FF; }
  .no-1{border-radius: 40px;}
  .sec-2{display: flex; justify-content: space-between;
 margin-left: 141px; margin-right: 161px; margin-top: 116px;}
+.sec-3{background-color: #d1d0e6;
+ border-radius: 15px;
+padding: 50px 80px; margin-top: 141px; margin-left: 149px; margin-right: 151px; margin-bottom: 141px;}
+.user{text-align: center;
+font-size: 1.4em; font-weight: bold;}
+.s{font-size: 2.5em; color: #25219b; font-weight: bold;}
+.s2{font-size: x-small; color: #555454;}
+.sec-31{display: flex; 
+gap: 151px; align-items: center;align-self: center; 
+ justify-content: center; }
